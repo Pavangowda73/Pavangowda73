@@ -38,8 +38,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-m-0b5818258/
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-m-0b5818258/)
 
 
 <!--
