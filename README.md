@@ -36,14 +36,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavangowda73&show_icons=true&locale=en&layout=compact" alt="Pavangowda73" /></p>
 
 
-
-<h3 align="left">Connect with me:</h3>
-
-
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-m-0b5818258/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pavan_3041/)
 
 
 <!--
