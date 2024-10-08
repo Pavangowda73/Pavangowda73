@@ -1,4 +1,6 @@
-## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-m-0b5818258/
+)
+https://www.linkedin.com/in/pavan-m-0b5818258/
 
 <!--
 **Pavangowda73/Pavangowda73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
